@@ -4,11 +4,17 @@ body {
 
 .principal{
     background: #CCCCCC;
+    padding: 20px;
 }
 
-h1{
+.titulo-centralizado{
     text-align: center;
 }
+
+.titulo-principal{
+    padding-left: 20px;
+}
+
 p{
     text-align: center;
 }
@@ -35,6 +41,3 @@ ul{
     font-style: italic;
 }
 
-h2{
-    text-align: center;
-}
